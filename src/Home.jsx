@@ -21,9 +21,9 @@ function Home() {
                Front Camera: The front-facing camera is now an 18MP sensor with Center Stage technology, which uses a square sensor to allow for portrait or landscape selfies without rotating the phone.
                 more.
               </p>
-              <Button variant="outline-dark" className="hobutton">
+              {/* <Button variant="outline-dark" className="hobutton">
                 About us
-              </Button>
+              </Button> */}
             </div>
             <div className="col-lg-6">
               <div className="Hero">
